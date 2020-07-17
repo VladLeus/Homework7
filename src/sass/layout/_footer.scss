@@ -1,0 +1,132 @@
+.footer{
+  background: url("img/city.png") no-repeat center;
+  background-size: 1200px;
+}
+.say{
+  padding-top: 50px;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $third-color;
+  .hello{
+  color: $second-color;
+  }
+}
+
+.footerlor{
+  width: 380px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $third-color;
+}
+.lastform{
+  padding-bottom: 50px;
+}
+.uremail{
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 275px;
+  padding: 10px 10px;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  border: 1px solid;
+  border-radius: 10px;
+}
+.subject{
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 15px;
+  padding: 10px 10px;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  border: 1px solid;
+  border-radius: 10px;
+}
+.message{
+  width: 645px;
+  height: 150px;
+  margin-left: 275px;
+  margin-top: 15px;
+  padding: 0 10px;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  border: 1px solid;
+  border-radius: 10px;
+}
+.lastbutton{
+  width: 140px;
+  margin-left: 275px;
+  margin-top: 15px;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $third-color;
+  border: 1px solid $second-color;
+  border-radius: 10px;
+  background-color: $second-color;
+  cursor: pointer;
+}
+.facebook{
+  width: 170px;
+  position: absolute;
+  margin-left: 640px;
+  margin-top: -120px;
+}
+.twitter{
+  width: 170px;
+  position: absolute;
+  margin-left: 690px;
+  margin-top: -120px;
+}
+.google\+{
+  width: 170px;
+  position: absolute;
+  margin-left: 740px;
+  margin-top: -120px;
+}
+.ball{
+  width: 170px;
+  position: absolute;
+  margin-left: 790px;
+  margin-top: -120px;
+}
+.be{
+  width: 170px;
+  position: absolute;
+  margin-left: 840px;
+  margin-top: -120px;
+}
+.lastsec{
+  background-color: $main-color;
+  background-size: 100%;
+}
+.copyright{
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 200px;
+  padding: 40px 0;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $third-color;
+  display: inline-block;
+}
+.by{
+  margin-left: 480px;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $third-color;
+}
+.lastlogo{
+  width: 170px;
+  height: 97px;
+  position: absolute;
+  margin-top: -1px;
+  margin-left: -52px;
+
+}
+

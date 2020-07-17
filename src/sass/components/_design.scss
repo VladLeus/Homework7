@@ -1,0 +1,120 @@
+.desec{
+  background-color: $third-color;
+}
+.print{
+  width: 135px;
+  height: 105px;
+  margin-left: 200px;
+  margin-top: 60px;
+  border: 1px solid $new-color;
+  border-radius: 100%;
+  display: inline-block;
+}
+.web{
+  width: 135px;
+  height: 105px;
+  margin-left: 70px;
+  margin-top: 60px;
+  border: 1px solid $new-color;
+  border-radius: 100%;
+  display: inline-block;
+}
+.app{
+  width: 140px;
+  height: 105px;
+  margin-left: 65px;
+  margin-top: 60px;
+  border: 1px solid $new-color;
+  border-radius: 100%;
+  display: inline-block;
+}
+.pen{
+  width: 135px;
+  height: 105px;
+  margin-left: 70px;
+  margin-top: 60px;
+  border: 1px solid $new-color;
+  border-radius: 100%;
+  display: inline-block;
+}
+.prdes{
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  margin-left: 220px;
+  margin-top: 30px;
+  display: inline-block;
+  color: $main-color;
+}
+.webdes{
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  margin-left: 117px;
+  margin-top: 30px;
+  display: inline-block;
+  color: $main-color;
+}
+.appdes{
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  margin-left: 120px;
+  margin-top: 30px;
+  display: inline-block;
+  color: $main-color;
+}
+.logodes{
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  margin-left: 123px;
+  margin-top: 30px;
+  display: inline-block;
+  color: $main-color;
+}
+.prlor{
+  font-size: 10px;
+  font-family: 'Open Sans' , sans-serif;
+  text-align: center;
+  margin-left: 200px;
+  margin-top: 15px;
+  margin-bottom: 50px;
+  width: 140px;
+  color: $text-color;
+  display: inline-block;
+}
+.weblor{
+  font-size: 10px;
+  font-family: 'Open Sans' , sans-serif;
+  text-align: center;
+  margin-left: 65px;
+  margin-top: 15px;
+  margin-bottom: 50px;
+  width: 140px;
+  color: $text-color;
+  display: inline-block;
+}
+.applor{
+  font-size: 10px;
+  font-family: 'Open Sans' , sans-serif;
+  text-align: center;
+  margin-left: 65px;
+  margin-top: 15px;
+  margin-bottom: 50px;
+  width: 140px;
+  color: $text-color;
+  display: inline-block;
+}
+.lglor{
+  font-size: 10px;
+  font-family: 'Open Sans' , sans-serif;
+  text-align: center;
+  margin-left: 70px;
+  margin-top: 15px;
+  margin-bottom: 50px;
+  width: 140px;
+  color: $text-color;
+  display: inline-block;
+}
+

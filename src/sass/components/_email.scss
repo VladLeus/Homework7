@@ -1,0 +1,32 @@
+.email{
+  background: url("img/tablet.png") no-repeat center;
+  background-size: 1200px;
+}
+.eminpt{
+  width: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 230px;
+  border-radius: 10px;
+  border: 1px;
+  background-color: $third-color;
+  padding: 10px 10px;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  display: inline-block;
+}
+.sub{
+  width: 200px;
+  border: 1px solid $second-color;
+  border-radius: 10px;
+  background-color: $second-color;
+  margin-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: $third-color;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  cursor: pointer;
+}
+
+

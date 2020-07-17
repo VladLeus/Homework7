@@ -1,0 +1,16 @@
+@import "normalize/import-now";
+
+@import 'utils/variables';
+
+@import 'base/basic';
+
+@import 'components/design';
+@import 'components/email';
+@import "components/smith";
+
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/footer';
+
+@import 'pages/ourworks';
+@import "pages/ourteam";

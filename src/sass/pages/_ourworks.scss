@@ -1,0 +1,122 @@
+.ourwork{
+  background-color: $third-color;
+  margin-top: -25px;
+  padding-bottom: 50px;
+}
+.logoworks{
+  text-align: center;
+  padding-top: 50px;
+  font-size: 25px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $main-color;
+  .secworks{
+    color: $second-color;
+  }
+}
+.worklor{
+  width: 375px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $text-color;
+}
+.imac{
+  width: 360px;
+  margin-top: 70px;
+  margin-left: 175px;
+}
+.office{
+  width: 360px;
+  margin-top: 70px;
+  margin-left: -120px;
+  display: inline-block;
+}
+.business{
+  width: 360px;
+  margin-top: 70px;
+  margin-left: -120px;
+  display: inline-block;
+}
+.ipad{
+  width: 360px;
+  margin-top: 15px;
+  margin-left: 175px;
+}
+.tech{
+  width: 360px;
+  margin-top: 15px;
+  margin-left: -120px;
+  display: inline-block;
+}
+.abazoo{
+  width: 360px;
+  height: 222px;
+  margin-bottom: 0;
+  margin-left: -120px;
+  text-align: center;
+  border-radius: 10px;
+  background: url("img/macbook.png") no-repeat center;
+  background-size: 360px;
+  display: inline-block;
+}
+.random{
+  width: 220px;
+  height: 222px;
+  background-color: $second-color;
+  border: 1px solid $second-color;
+  border-radius: 10px;
+  background-size: 100%;
+  opacity: 0.9;
+  display: inline-block;
+}
+.ab{
+  position: absolute;
+  margin-left: -180px;
+  margin-top: 40px;
+  font-size: 15px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $third-color;
+}
+.ablor{
+  width: 200px;
+  position: absolute;
+  text-align: center;
+  margin-left: -210px;
+  margin-top: 70px;
+  font-size: 10px;
+  font-family: 'Open Sans' , sans-serif;
+  line-height: 16px;
+  color: $third-color;
+}
+.proj{
+  width: 120px;
+  position: absolute;
+  margin-left: -183px;
+  margin-top: 130px;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid $third-color;
+  border-radius: 10px;
+  background-color: $third-color;
+  color: $second-color;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  cursor: pointer;
+}
+.more{
+  width: 130px;
+  margin: 60px auto;
+  padding: 10px 10px;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  text-decoration: none;
+  color: $main-color;
+  border: 1px solid $new-color;
+  border-radius: 10px;
+  text-align: center;
+  display: block;
+  cursor: pointer;
+}

@@ -1,0 +1,177 @@
+.workers{
+  background-color: $third-color;
+  margin-top: -50px;
+  margin-bottom: -25px;
+}
+.ourteam{
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+  font-size: 25px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $main-color;
+  .team{
+    color: $second-color;
+  }
+}
+.teamlor{
+  width: 370px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 12px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $main-color;
+  line-height: 20px;
+}
+.warstwa{
+  height: 200px;
+  margin-left: 100px;
+  margin-top: 70px;
+}
+.secwarst{
+  height: 200px;
+  margin-left: -120px;
+  margin-top: 70px;
+}
+.warstwa:hover{
+  height: 220px;
+  cursor: pointer;
+}
+.secwarst:hover{
+  height: 220px;
+  cursor: pointer;
+}
+.catherina{
+  width: 200px;
+  margin-left: 190px;
+  margin-top: 15px;
+  font-size: 18px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $text-color;
+  display: inline-block;
+  &:hover{
+    color: $main-color;
+    cursor: pointer;
+  }
+}
+.harvey{
+  margin-left:15px;
+  margin-top: 15px;
+  font-size: 18px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $text-color;
+  &:hover{
+    color: $main-color;
+    cursor: pointer;
+  }
+}
+.janet{
+  margin-left: 90px;
+  margin-top: 15px;
+  font-size: 18px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $text-color;
+  &:hover{
+    color: $main-color;
+    cursor: pointer;
+  }
+}
+.kevin{
+  margin-left: 95px;
+  margin-top: 15px;
+  font-size: 18px;
+  font-family: 'Open Sans' , sans-serif;
+  color: $text-color;
+  &:hover{
+    color: $main-color;
+    cursor: pointer;
+  }
+}
+.gailfacebook{
+  width: 175px;
+  display: inline-block;
+  margin-left: 150px;
+  margin-top: -45px;
+  cursor: pointer;
+}
+.gailtwitt{
+  width: 175px;
+  margin-left: -150px;
+  margin-top: -45px;
+  cursor: pointer;
+}
+.harveyfacebook{
+  width: 175px;
+  margin-left: -30px;
+  margin-top: -45px;
+  cursor: pointer;
+}
+.gaillor{
+  width: 180px;
+  margin-left: 171px;
+  margin-top: -25px;
+  text-align: center;
+  font-family: 'Open Sans' , sans-serif;
+  font-size: 10px;
+  color: $text-color;
+  display: inline-block;
+  &:hover{
+    color: $main-color;
+  }
+}
+.harveylor{
+  width: 180px;
+  margin-left: 27px;
+  margin-top: -25px;
+  text-align: center;
+  font-family: 'Open Sans' , sans-serif;
+  font-size: 10px;
+  color: $text-color;
+  display: inline-block;
+  &:hover{
+    color: $main-color;
+  }
+}
+.janetlor{
+  width: 200px;
+  margin-left: 23px;
+  margin-top: -25px;
+  text-align: center;
+  font-family: 'Open Sans' , sans-serif;
+  font-size: 10px;
+  color: $text-color;
+  display: inline-block;
+  &:hover{
+    color: $main-color;
+  }
+}
+.kevinlor{
+  width: 200px;
+  margin-left: 10px;
+  margin-top: -25px;
+  text-align: center;
+  font-family: 'Open Sans' , sans-serif;
+  font-size: 10px;
+  color: $text-color;
+  display: inline-block;
+  &:hover{
+    color: $main-color;
+  }
+}
+.dot{
+  width: 175px;
+  display: inline-block;
+  margin-left: 460px;
+  margin-top: 15px;
+  padding-bottom: 15px;
+}
+.dota{
+  width: 175px;
+  display: inline-block;
+  margin-left: -155px;
+  margin-top: 15px;
+  padding-bottom: 15px;
+}
+
+
